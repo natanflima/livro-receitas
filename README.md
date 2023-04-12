@@ -4,7 +4,8 @@
 
 #### Olá!    :wave:
 
-#### Bem vindo ao meu livro de receitas.
+
+#### Livro de receitas usando linguagem de markdown pelo editor Typora.
 
 
 
